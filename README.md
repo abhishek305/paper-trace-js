@@ -2,7 +2,7 @@
 
 A browser-only tool that runs your JavaScript and lets you **step forward and backward through execution**, the way you'd dry-run code on paper: every sub-expression evaluated in order, every variable change, the call stack, and program output — no setup, no backend.
 
-> Live demo: redeploy this repo on Vercel (see [Deploy](#deploy)) and put the URL here.
+> Live demo: https://paper-trace-js.vercel.app/
 
 ## How it works
 
